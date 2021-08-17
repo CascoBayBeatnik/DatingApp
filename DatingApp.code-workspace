@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"workbench.colorTheme": "Visual Studio Dark",
+		"explorer.compactFolders": false,
+		"csharpextensions.privateMemberPrefix": "_",
+		"csharpextensions.useThisForCtorAssignments": false,
+		"files.autoSaveDelay": 10
+	}
+}
